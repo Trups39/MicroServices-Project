@@ -1,6 +1,19 @@
 
 # MicroServices-Project
-Architected an event-driven e-commerce platform with Spring Cloud microservices, Kafka, and Circuit Breaker, deployed on Kubernetes
+Application Overview
+We will be building a simple e-commerce application where customers can order products. Our application contains the following services:
+
+Product Service
+
+Order Service
+
+Inventory Service
+
+Notification Service
+
+To focus on the principles of Spring Cloud and Microservices, we will develop services with essential functionality rather than creating fully-featured e-commerce services.
+<img width="709" alt="image" src="https://github.com/user-attachments/assets/0ee878a5-b1f6-40c2-95a9-5d4781935635" />
+
 
 ## How to run the application using Docker
 
